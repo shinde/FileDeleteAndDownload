@@ -1,0 +1,11 @@
+D:\Demo\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\bin\Debug\netcoreapp2.0\FilesDownloadAndDelete.deps.json
+D:\Demo\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\bin\Debug\netcoreapp2.0\FilesDownloadAndDelete.runtimeconfig.json
+D:\Demo\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\bin\Debug\netcoreapp2.0\FilesDownloadAndDelete.runtimeconfig.dev.json
+D:\Demo\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\bin\Debug\netcoreapp2.0\FilesDownloadAndDelete.dll
+D:\Demo\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\bin\Debug\netcoreapp2.0\FilesDownloadAndDelete.pdb
+D:\Demo\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\obj\Debug\netcoreapp2.0\FilesDownloadAndDelete.AssemblyInfoInputs.cache
+D:\Demo\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\obj\Debug\netcoreapp2.0\FilesDownloadAndDelete.AssemblyInfo.cs
+D:\Demo\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\obj\Debug\netcoreapp2.0\FilesDownloadAndDelete.csproj.CoreCompileInputs.cache
+D:\Demo\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\obj\Debug\netcoreapp2.0\FilesDownloadAndDelete.dll
+D:\Demo\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\obj\Debug\netcoreapp2.0\FilesDownloadAndDelete.pdb
+D:\Demo\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\obj\Debug\netcoreapp2.0\FilesDownloadAndDelete.genruntimeconfig.cache

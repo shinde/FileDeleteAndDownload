@@ -1,0 +1,32 @@
+﻿@model FilesDownloadAndDelete.Models.Home.FilesViewModel
+<html>
+
+<body>
+    <h2>Select to downloads</h2>
+    @using (Html.BeginForm("Download", "Home"))
+    {
+
+        foreach (var fileName in Model.Files)
+        {
+            <input type="checkbox" name="files" value="@fileName.Name"/> @:&nbsp;
+
+            @fileName.Path <br /> }
+      <div>
+      <button class="btn btn-default">Download</button>
+      </div>}
+
+    <h2>Select to Delete</h2>
+
+    @using (Html.BeginForm("Delete", "Home"))
+    {
+        foreach (var fileName in Model.Files)
+        {
+        <input type="checkbox" name="files" value="@fileName.Name" /> @:&nbsp;
+        @fileName.Path <br />
+        }
+       <div>
+       <button class="btn btn-default">Delete</button>
+      </div>
+    }
+</body>
+</html>

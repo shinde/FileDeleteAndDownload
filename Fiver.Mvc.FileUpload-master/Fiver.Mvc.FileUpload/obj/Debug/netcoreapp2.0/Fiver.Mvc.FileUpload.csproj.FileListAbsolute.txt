@@ -1,0 +1,12 @@
+D:\Demo\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\bin\Debug\netcoreapp2.0\Fiver.Mvc.FileUpload.deps.json
+D:\Demo\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\bin\Debug\netcoreapp2.0\Fiver.Mvc.FileUpload.runtimeconfig.json
+D:\Demo\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\bin\Debug\netcoreapp2.0\Fiver.Mvc.FileUpload.runtimeconfig.dev.json
+D:\Demo\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\bin\Debug\netcoreapp2.0\Fiver.Mvc.FileUpload.dll
+D:\Demo\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\bin\Debug\netcoreapp2.0\Fiver.Mvc.FileUpload.pdb
+D:\Demo\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\obj\Debug\netcoreapp2.0\Fiver.Mvc.FileUpload.AssemblyInfoInputs.cache
+D:\Demo\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\obj\Debug\netcoreapp2.0\Fiver.Mvc.FileUpload.AssemblyInfo.cs
+D:\Demo\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\obj\Debug\netcoreapp2.0\Fiver.Mvc.FileUpload.csproj.CoreCompileInputs.cache
+D:\Demo\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\obj\Debug\netcoreapp2.0\Fiver.Mvc.FileUpload.dll
+D:\Demo\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\obj\Debug\netcoreapp2.0\Fiver.Mvc.FileUpload.pdb
+D:\Demo\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\obj\Debug\netcoreapp2.0\Fiver.Mvc.FileUpload.genruntimeconfig.cache
+D:\Demo\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\obj\Debug\netcoreapp2.0\Fiver.Mvc.FileUpload.csprojAssemblyReference.cache
